@@ -1,22 +1,19 @@
-import me from '../app/avatar.jpg';
+import me from '../app/placeholder.jpg';
 
-export const name = 'Lee Robinson';
+export const name = 'Pendrana';
 export const avatar = me;
 export const about = () => {
   return (
     <>
-      Hey, I'm Lee. I'm the <b>VP of Developer Experience at Vercel</b> where my
-      team helps developers build a faster web.
+      Pendrana is a cypher-research firm focused on investigating grimoires for the New Paradigm.
     </>
   );
 };
+
 export const bio = () => {
   return (
     <>
-      I'm a Next.js contributor and help lead our open-source communities. I'm
-      passionate about frontend development and have created courses on React,
-      Next.js, and web development. I'm an advisor and investor in early stage
-      startups.
+      We build both proprietary and open tools to delve into on-chain worlds and gain exposure to crypto-native assets, managed by mission-driven crypto natives.  
     </>
   );
 };

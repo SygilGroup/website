@@ -12,24 +12,12 @@ const navItems = {
     y: 0,
     w: '64px',
   },
-  '/about': {
-    name: 'about',
-    x: 64,
-    y: 35,
-    w: '65px',
-  },
-  '/blog': {
+  /*'/blog': {
     name: 'blog',
     x: 127,
     y: 69,
     w: '56px',
-  },
-  '/guestbook': {
-    name: 'guestbook',
-    x: 182,
-    y: 104,
-    w: '100px',
-  },
+  }*/
 };
 
 function Logo() {
