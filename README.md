@@ -1,3 +1,3 @@
-# Pendrana
+# Sygil Group
 
-Pendrana website.
+Sygil Group website.

@@ -1,11 +1,11 @@
 import me from '../app/placeholder.jpg';
 
-export const name = 'Pendrana';
+export const name = 'Sygil';
 export const avatar = me;
 export const about = () => {
   return (
     <>
-      Pendrana is a cypher-research firm focused on investigating grimoires for the New Paradigm.
+      Sygil is a cypher-research firm focused on investigating grimoires for the New Paradigm.
     </>
   );
 };

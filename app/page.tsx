@@ -39,7 +39,7 @@ export default async function HomePage() {
             className="flex items-center hover:text-neutral-700 dark:hover:text-neutral-200 transition-all"
             rel="noopener noreferrer"
             target="_blank"
-            href="https://github.com/pendrana"
+            href="https://github.com/sygilgroup"
           >
             <ArrowIcon />
             <p className="h-7">github</p>
@@ -50,7 +50,7 @@ export default async function HomePage() {
             className="flex items-center hover:text-neutral-700 dark:hover:text-neutral-200 transition-all"
             rel="noopener noreferrer"
             target="_blank"
-            href="https://leerob.substack.com"
+            href="https://github.com/sygilgroup"
           >
             <ArrowIcon />
             <p className="h-7">contact</p>
